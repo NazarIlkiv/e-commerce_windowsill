@@ -1,0 +1,213 @@
+.page__contacts {
+}
+
+.contacts {
+  padding-top: 160px;
+}
+
+.contacts__container {
+}
+
+.contacts__info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.contacts__office {
+}
+
+.contacts-office__address {
+  color: #fff;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.contacts-office__title {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 150%;
+}
+.contacts-office__text {
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.contacts__worktime {
+}
+.contacts-worktime__title {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 150%;
+}
+.contacts-worktime__schedule {
+}
+.contacts-worktime-schedule__day {
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.contacts-worktime-schedule__hours {
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.contacts__questions {
+  display: flex;
+  justify-content: center;
+}
+
+.contacts-questions__body {
+  margin-top: 50px;
+}
+
+.contacts-question__label {
+  margin-bottom: 30px;
+  font-size: 25px;
+}
+
+.contacts-question__form {
+  justify-content: center;
+}
+
+.contacts-question__input {
+  width: 300px;
+}
+
+.contacts__actions {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.contacts-question__button {
+  font-size: 16px;
+}
+
+.contacts__attention {
+  max-width: 100%;
+  text-align: center;
+}
+
+.reply__body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+#reply_form {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+@media (max-width: 991.98px) {
+  .contacts {
+    padding-top: 100px;
+  }
+  .contacts__info {
+    flex-direction: column;
+  }
+  .contacts__office {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .contacts {
+    padding-top: 100px;
+  }
+  .contacts__container {
+    flex-direction: column;
+  }
+  .contacts-office__address {
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+
+  .contacts-office__title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 150%;
+  }
+  .contacts-office__text {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .contacts-worktime__title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 150%;
+  }
+  .contacts-worktime-schedule__day {
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .contacts-worktime-schedule__hours {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .contacts__attention {
+    font-size: 22px;
+  }
+  .contacts-question__label {
+    font-size: 22px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 320.98px) {
+  .contacts {
+    padding-top: 100px;
+  }
+  .contacts__container {
+    flex-direction: column;
+  }
+  .contacts-office__address {
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+
+  .contacts-office__title {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 150%;
+  }
+  .contacts-office__text {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  .contacts-worktime__title {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 150%;
+  }
+  .contacts-worktime-schedule__day {
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  .contacts-worktime-schedule__hours {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+  .contacts__attention {
+    font-size: 20px;
+  }
+  .contacts-question__label {
+    font-size: 20px;
+    text-align: center;
+  }
+}
