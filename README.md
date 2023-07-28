@@ -12,3 +12,4 @@ This is my **e-commerce project**, the purpose of which is to sell a plastic win
 
 ### `npm start`
 
+![Windowsill-mainpage](https://github.com/NazarIlkiv/e-commerce_windowsill/assets/102189839/cb374b5c-c213-4c57-801b-4c8d2669ee4f)
