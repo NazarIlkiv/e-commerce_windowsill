@@ -1,10 +1,8 @@
 Hi!
 
-This is my **e-commerce project**, the purpose of which is to sell a plastic windowsill. This website is complete in development and successfully fulfills its role in the search engine.
+This is my **e-commerce** project created to selling plastic windowsills. The project is completed and successfully fulfills its role in the search engine.
 
-**Tech stack**: React.js, CSS, Axios.
-
-**Additionally stack**: Swiper slider and api with to send form in telegram.
+**Tech stack**: React.js, CSS, Axios, Swiper slider and API for telegram’s form.
 
 ### You can evaluate the project by going to github pages.
 
